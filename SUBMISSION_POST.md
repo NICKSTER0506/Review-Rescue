@@ -106,23 +106,21 @@ $ python reviewrescue.py --business "Austin Pro Plumbing" --type "Emergency Plum
 │                                                                              │
 │                Public SEO-Optimized Response (Ready to Post)                 │
 │                                                                              │
-│  "Thank you so much for the glowing review! Our entire team is thrilled to   │
-│  hear that you had such a wonderful experience with us. Providing top-tier   │
-│  service and memorable experiences for our local community is our passion    │
-│  every single day.                                                           │
-│                                                                              │
-│  We are so grateful for your support and recommendation. Be sure to stop by  │
-│  again soon, and don't hesitate to ask our team about our seasonal           │
-│  specials! See you next time!"                                               │
+│  "Thank you for trusting Austin Pro Plumbing! Dealing with a burst pipe on   │
+│  a Sunday morning is stressful, so our entire team is proud Mike could       │
+│  arrive within 35 minutes and get the repair done quickly and cleanly. We    │
+│  stand behind our 24/7 emergency plumbing service and fair rates for the     │
+│  Austin community. If you ever need licensed plumbing assistance in the      │
+│  future, please don't hesitate to give us a call!"                           │
 │                                                                              │
 │  ──────────────────────────────────────────────────────────────────────────  │
 │                             Strategic Breakdown                              │
 │                                                                              │
-│   • Tone: Warm, energetic, and grateful.                                     │
-│   • Objective: Boosts Google Maps algorithmic visibility and encourages      │
-│     repeat visits.                                                           │
-│   • SEO Boost: Reinforces customer loyalty and signals active, attentive     │
-│     local business management.                                               │
+│   • Tone: Direct, dependable, and solution-oriented.                         │
+│   • Objective: Boosts Google Maps algorithmic visibility for local emergency │
+│     plumbing keywords.                                                       │
+│   • SEO Boost: Injects "burst pipe repair", "licensed Austin plumber", and   │
+│     "24/7 emergency plumbing" naturally into public review signals.          │
 │                                                                              │
 ╰──────────────────────────────────────────────────────────────────────────────╯
 ```
