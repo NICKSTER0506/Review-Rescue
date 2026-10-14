@@ -131,7 +131,7 @@ $ python reviewrescue.py --business "Austin Pro Plumbing" --type "Emergency Plum
 
 The complete source code is open-source under the MIT license:
 
-{% github NICKSTER0506/ReviewRescue %}
+{% github NICKSTER0506/Review-Rescue %}
 
 ### Project Structure:
 ```

@@ -37,8 +37,8 @@ Freelance digital marketers charge between $150 and $300 per month per client to
 ### 1. Installation
 
 ```bash
-git clone https://github.com/NICKSTER0506/ReviewRescue.git
-cd ReviewRescue
+git clone https://github.com/NICKSTER0506/Review-Rescue.git
+cd Review-Rescue
 pip install -r requirements.txt
 ```
 
